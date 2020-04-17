@@ -78,6 +78,7 @@ protected:
 	float angle = 0.f;
 	float delta_forward = 0.f;
 	float delta_rotation = 0.f;
+	float delta_height = 0.0f;
 
 	// Synchronization objects.
 	UINT frame_index;
